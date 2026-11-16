@@ -1,0 +1,6 @@
+{
+  "name": "Mochi AI",
+  "description": "Custom 3D animated desktop companion and AI pet with real-time cursor tracking, visual design studio, SQLite memory, voice interaction, and Gemini intelligence.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
